@@ -1,0 +1,32 @@
+{
+  "name": "login-page-1777749616131",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.38.0",
+    "bcryptjs": "^2.4.3",
+    "next": "16.2.1",
+    "react": "^19",
+    "react-dom": "^19",
+    "lucide-react": "latest",
+    "tailwind-merge": "latest",
+    "zustand": "^5"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/bcryptjs": "^2.4.2",
+    "typescript": "^5",
+    "tailwindcss": "^4",
+    "postcss": "^8",
+    "eslint": "^8",
+    "eslint-config-next": "16.2.1"
+  }
+}
